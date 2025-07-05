@@ -75,18 +75,6 @@ Git, VSCode, Figma, IA Generativa, Automatización de Procesos, Nagios, Windsurf
 
 ---
 
-### 🌟 GitHub Stats
-
-```md
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuarioGitHub&layout=compact&theme=radical)
-```
-
----
-
-### 🎨 Stack Visual (como en la imagen)
-
-```html
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -108,4 +96,3 @@ Git, VSCode, Figma, IA Generativa, Automatización de Procesos, Nagios, Windsurf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
-```
