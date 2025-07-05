@@ -48,7 +48,7 @@ Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
 
 #### Otros
 
-Git, VSCode, Figma, IA Generativa, Automatización de Procesos, Nagios, Windsurf, API REST, Webhooks
+MuleSoft, Git, VSCode, Figma, IA Generativa, Automatización de Procesos, Nagios, Windsurf, API REST, Webhooks
 
 ---
 
@@ -93,4 +93,5 @@ Git, VSCode, Figma, IA Generativa, Automatización de Procesos, Nagios, Windsurf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MuleSoft_logo.svg/2560px-MuleSoft_logo.svg.png" width="40"/>
 </p>
