@@ -51,6 +51,14 @@ Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
 MuleSoft, Git, VSCode, Figma, IA Generativa, Automatización de Procesos, Nagios, Windsurf, API REST, Webhooks
 
 ---
+### 🏅 Certificación
+
+* ✅ Grafana Observability Solution Architect
+* Otorgada el 19 de mayo de 2025
+* Certificado oficial por Grafana Labs
+* Reconocimiento a mi experiencia técnica en la plataforma de observabilidad de Grafana
+
+
 
 ### 🎯 Fortalezas Personales
 
@@ -84,7 +92,6 @@ MuleSoft, Git, VSCode, Figma, IA Generativa, Automatización de Procesos, Nagios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mulesoft.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
