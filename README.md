@@ -1,6 +1,6 @@
 ## 🧠 Daniel Martínez – Full Stack & Observability Engineer 👨‍💻
 
-¡Hola! Soy **Daniel Martínez**, tengo **21 años** y soy estudiante de **Ingeniería en Sistemas Computacionales (ISC)**. Me especializo como **Full Stack Developer** y **Observability Engineer**, con un enfoque sólido en la **observabilidad con Grafana**, automatización y soluciones de inteligencia artificial generativa.
+¡Hola! Soy **Daniel Martínez**, tengo **21 años** y soy estudiante de **Ingeniería en Sistemas Computacionales (ISC)**. Me especializo como **Full Stack Developer** y **Observability Engineer**, con un enfoque sólido en la **observabilidad con Grafana** y soluciones con inteligencia artificial generativa.
 
 ---
 
