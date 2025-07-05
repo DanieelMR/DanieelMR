@@ -1,10 +1,3 @@
-¡Claro que sí\! Aquí tienes tu README completo, integrando la **Opción 1 (la más visual y profesional)** que te recomendé.
-
-Simplemente copia y pega todo el siguiente código en tu archivo `README.md`. He reemplazado la sección "Tech Stack" y eliminado la lista de íconos redundante del final para que quede todo limpio y perfectamente integrado.
-
------
-
-```markdown
 ## 🧠 Daniel Martínez – Full Stack & Observability Engineer 👨‍💻
 
 ¡Hola! Soy **Daniel Martínez**, tengo **21 años** y soy estudiante de **Ingeniería en Sistemas Computacionales (ISC)**. Me especializo como **Full Stack Developer** y **Observability Engineer**, con un enfoque sólido en la **observabilidad con Grafana**, automatización y soluciones de inteligencia artificial generativa.
@@ -100,4 +93,3 @@ Simplemente copia y pega todo el siguiente código en tu archivo `README.md`. He
 * 📧 [danielmartinez_24@outlook.com](mailto:danielmartinez_24@outlook.com)
 * 📞 +52 735 274 585
 * 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-martinez-789bb2265)
-```
