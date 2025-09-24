@@ -74,6 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>  
-  <img src="https://cast.ai/wp-content/uploads/2021/04/cast-ai-logo.svg" width="80" title="CAST AI"/>  
-  <img src="https://windsurf.ai/logo.svg" width="80" title="Windsurf"/>  
+  <img src="assets/logos/cast-ai.png" width="80" title="CAST AI"/>  
+  <img src="assets/logos/windsurf.png" width="80" title="Windsurf"/>  
 </p>
