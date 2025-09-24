@@ -1,6 +1,3 @@
-¡De una! 🔥 Eso le va a dar más punch visual al final de tu README. No hay íconos “oficiales” en **devicon**, pero podemos usar las imágenes de sus logos desde fuentes públicas confiables. Aquí te dejo tu README con **Windsurf** y **CAST AI** añadidos a la galería de logos del final:
-
-
 ## 🧠 Daniel Martínez – Full Stack & Observability Engineer 👨‍💻
 
 ¡Hola! Soy **Daniel Martínez**, tengo **21 años** y soy estudiante de **Ingeniería en Sistemas Computacionales (ISC)**. Me especializo como **Full Stack Developer** y **Observability Engineer**, con experiencia en **Grafana**, **Prometheus**, **Windsurf**, **CAST AI** y soluciones de **IA generativa**.
